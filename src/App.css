@@ -1,0 +1,20 @@
+
+
+.heading{
+  color:  gray;
+  font-size: 30px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.subheading{
+  color:  green;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.play-btn{
+  display: flex;
+  width: 100%;
+  gap: 10px;
+}
