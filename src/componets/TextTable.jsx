@@ -39,10 +39,10 @@ export const TextTable = () => {
         
         console.log(transcript)
         
-       alert("✅ Correct pronunciation!");
+       alert(" Correct pronunciation!");
     } else {
 
-      alert(`❌ Incorrect! You said: "${transcript}"`);
+      alert(` Incorrect! You said: "${transcript}"`);
     }
   };
 
